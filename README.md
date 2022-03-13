@@ -1,5 +1,7 @@
-# First-projects
+# Portfolio Webpage - project
 
-My first projects for freeCodeCamp Web Design certification.
+This is one of my first projects for freeCodeCamp Web Design certification.
 
-All of them are in codepen platform.
+The page address: https://jvitoralb.github.io/First-projects/
+
+All of my projects built in HTML and CSS are in codepen platform, in the page you can access them.
