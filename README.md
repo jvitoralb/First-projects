@@ -1,2 +1,5 @@
 # First-projects
-My first projects for FCC Web Design certification
+
+My first projects for freeCodeCamp Web Design certification.
+
+All of them are in codepen platform.
